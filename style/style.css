@@ -1,0 +1,40 @@
+.body-bg{
+    background-color: white;
+    background-image: url(/img/cool-background.png);
+    background-size: cover;
+}
+.header{
+    margin: 5px;
+ height: 125px;
+ border: 1px solid white;
+ border-radius: 25px;
+ background-color: #3e50a3;
+ background-image: url(/img/header-logo.png);
+ background-repeat: no-repeat;
+ background-position: center;
+ opacity: .6;
+
+}
+.left{
+    margin-left: 45px;
+}
+#city{
+    display: block;
+    width:321px;
+}
+h1{
+    font-style: italic;
+    color:blue;
+}
+
+.pricing-table{
+    margin-left: 85px;
+}
+
+.pricing-table{
+    position: relative;
+    /* float: right; */
+    /* right: -125px; */
+    left: 490px;
+    bottom: 125px;
+}
